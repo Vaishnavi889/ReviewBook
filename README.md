@@ -38,7 +38,7 @@ The project is built with HTML, CSS, and JavaScript, with a client-side API call
 
 
 
-Usage
+### Usage
 
 1. Search for Books: Use the search bar to find books by title or author.
 
@@ -53,7 +53,7 @@ Usage
 
 
 
-Technologies Used
+### Technologies Used
 
 Frontend: HTML, CSS, JavaScript
 
@@ -62,7 +62,7 @@ API: Google Books API for real-time data
 Design: Professional and responsive design for an optimal experience across devices
 
 
-Contributing
+### Contributing
 
 Contributions are welcome! Please feel free to submit a pull request or open an issue if you have suggestions for improving Bookworm Haven.
 
@@ -88,11 +88,11 @@ git push origin feature/new-feature
 
 
 
-License
+### License
 
 This project is licensed under the MIT License.
 
-Contact
+### Contact
 
 Feel free to reach out via the contact page in the app for feedback or questions!
 
