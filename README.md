@@ -29,7 +29,7 @@ The project is built with HTML, CSS, and JavaScript, with a client-side API call
 
 1. *Clone the repository*:
    ```bash
-   git clone https://github.com/yourusername/bookworm-haven.git
+   git clone https://github.com/Vaishnavi889/ReviewBook.git
 
 2. Open the index.html file in your browser to start using Bookworm Haven.
 
